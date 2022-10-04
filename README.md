@@ -11,6 +11,14 @@
 #### Target Location: The distance (in kilometers) from the base station to the target location of the mission.
 #### Mission Duration: The number of days needed to fulfill the mission requirements at the target location (assumed constant regardless of rover type).
 #### Significance: A number representing the importance of the mission and how beneficial it is (the higher the number, the more significant it is).
+#### **************************************************************************************************************************************************************
+### Rovers:
+#### Rover Type: There are 3 types of rovers: Emergency rovers, Mountainous rovers, and Polar rovers.
+#### 1-Emergency rovers are rovers which are over-equipped and ready for emergency missions in almost any region.
+#### 2-Mountainous rovers are rovers which can navigate in mountainous regions.
+#### 3-Polar rovers are rovers which can navigate in polar regions.
+#### Checkup Duration: The duration (in days) of checkups that a rover needs to perform after completing N missions.
+#### Speed: in kilometers/hour. (Note that a day on Mars is 25 hours.)
 
 
 
